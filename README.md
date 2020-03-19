@@ -10,7 +10,7 @@
 構建特徵值:<br>
 客戶關係長度為L,消費時間間隔為R,消費頻率F,飛行里程M,折扣係數平均值為C<br>
 
-L：LOAD_TIME測試區間內的結束時間-FFP_DATE入會時間<br>
+<ol>L：LOAD_TIME測試區間內的結束時間-FFP_DATE入會時間<br>
 R：LAST_TO_END最後一次乘機時間至測試區間內的結束時長<br>
 F：FLIGHT_COUNT測試區間內的飛行次數<br>
 M：SEG_KM_SUM測試區間內的總飛行公里數<br>
