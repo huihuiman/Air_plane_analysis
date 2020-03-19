@@ -14,7 +14,7 @@
 R：LAST_TO_END最後一次乘機時間至測試區間內的結束時長<br>
 F：FLIGHT_COUNT測試區間內的飛行次數<br>
 M：SEG_KM_SUM測試區間內的總飛行公里數<br>
-C：avg_discount平均折扣率<br>
+C：avg_discount平均折扣率<br></ol>
 
 數據標準化<br>
 
